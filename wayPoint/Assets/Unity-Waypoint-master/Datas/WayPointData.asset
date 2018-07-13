@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10513131d4d640645a776bd1c52e6f58, type: 3}
+  m_Name: WayPointData
+  m_EditorClassIdentifier: 
+  m_points:
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 0, z: -10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: 14, y: 0, z: 0}
+    id: 34
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 2, z: 10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: -14, y: 0, z: 0}
+    id: 36
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 4, z: -10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: 14, y: 0, z: 0}
+    id: 37
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 6, z: 10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: -14, y: 0, z: 0}
+    id: 38
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 8, z: -10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: 14, y: 0, z: 0}
+    id: 39
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 6, z: 10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: -14, y: 0, z: 0}
+    id: 40
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 4, z: -10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: 14, y: 0, z: 0}
+    id: 41
+  - name: Point
+    uniqueTangent: 1
+    position: {x: 0, y: 2, z: 10}
+    tangentL: {x: 0, y: 0, z: 0}
+    tangentR: {x: 0, y: 0, z: 0}
+    tangent: {x: -14, y: 0, z: 0}
+    id: 42
+  m_lastid: 43
